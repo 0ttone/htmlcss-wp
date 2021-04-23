@@ -114,7 +114,7 @@ nav {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 50% 50%;
-
+    background-color: rgba(230, 210, 210, 0.5);
 
 }
 .content-imgc {
@@ -148,7 +148,7 @@ nav {
 footer {
     height: 100px;
     text-align: center;
-    
+
     margin-top: 10px;
 }
 
