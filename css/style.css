@@ -48,13 +48,15 @@ ul {
 }
 
 li {
+    font-size: 14px;
     display: inline;
+    margin-left: 5px;
+    color: lightgray;
 }
 
 nav {
     height: 50px;
-    background: cornflowerblue;
-    margin-top: 10px;
+    margin-top: 20px;
 }
 
 .top-box {
@@ -72,9 +74,22 @@ nav {
 }
 
 .text-top-box {
-    padding-top: 250px;
-    padding-left: 25px;
+    padding-top: 240px;
+    padding-left: 30px;
+    width: 50%;
+    color:white;
     
+}
+
+.text-top-box h3 {
+        font-size: 24px;
+        font-weight: 300;
+        text-align: justify;
+        
+}
+
+.text-top-box p {
+    font-size: 14px;
 }
 
 .intro {
